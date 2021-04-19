@@ -1,0 +1,11 @@
+.container{
+    background: #CAEBF2;
+    border:solid 3px #A9A9A9;
+}
+tr{
+    border:solid 3px rgb(255, 0, 179);  
+}
+td{
+    border:solid 3px #FF3B3F !important;  
+    
+}
